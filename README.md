@@ -2,5 +2,5 @@
 
 - Lecture 2: Trees (13 Feb 2025)
 
-- Lecture 3: Neural Networks (27 Feb 2025)
+- Lecture 3: Neural Networks (6 March 2025)
 
