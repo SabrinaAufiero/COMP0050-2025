@@ -1,6 +1,6 @@
 - Lecture 1: Introduction to Python + Linear Regression + Logistic Regression (06 Feb 2025)
 
-- Lecture 2: Trees (13 Feb 2025)
+- Lecture 2: Trees and Forests (13 Feb 2025)
 
 - Lecture 3: Neural Networks (6 March 2025)
 
