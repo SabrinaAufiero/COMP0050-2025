@@ -4,5 +4,5 @@
 
 - Lecture 3: Neural Networks (6 March 2025)
 
-- Lecture 4: Clustering & PCA (20 March 2025)
+- Lecture 4: Clustering + PCA (20 March 2025)
 
